@@ -9,7 +9,7 @@
 - FORK THE REPOSITORY [Here](https://github.com/Ashanweera/Blue-Wolf.v3/fork)
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://replit.com/@Sasidu/Blue-Wolf-Bot?v=1)
+[![Wolf Bot](https://replit.com/@Sasidu/Blue-Wolf-Bot?v=1)
 
 ## `SETTINGS`
 
