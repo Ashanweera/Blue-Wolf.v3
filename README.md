@@ -31,7 +31,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
   
-
+<img src="https://i.ibb.co/HPvhLTJ/tenor.gif" alt="nz" width="350"/>
  
  
 # Install Manually 👇
