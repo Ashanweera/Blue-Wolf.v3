@@ -18,6 +18,8 @@
 - CHANGE OWNER NUMBER TAG [Here](https://github.com/Ashanweera/Blue-Wolf.v3.git/blob/master/settings.js#L66)
 - CHANGE OWNER NAME [Here](https://github.com/Ashanweera/Blue-Wolf.v3.git/blob/master/settings.js#L59)
 - CHANGE BOT NAME [Here](https://github.com/Ashanweera/Blue-Wolf.v3.git/blob/master/settings.js#L67)
+ 
+ <img src="https://i.ibb.co/nbnbR9Y/loading.gif" alt="nz" width="350"/>
 
 
  
