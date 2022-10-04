@@ -1,6 +1,6 @@
 <h1 align="center"> 🌀 𝘽𝙡𝙪𝙚 𝙒𝙤𝙡𝙛 🌀<br></h1>
 <p align="center">
-<img https://i.ibb.co/Xk97NC7/Picsart-22-09-10-23-31-31-590.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
+<img'https://i.ibb.co/Xk97NC7/Picsart-22-09-10-23-31-31-590.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
 
 
 
